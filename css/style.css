@@ -2,6 +2,8 @@
 
 @import "./global/global.css";
 @import ".//global/header.css";
+@import "./utilidades/cores.css";
+@import "./utilidades/animacao.css";
 
 /* Main */
 
@@ -43,6 +45,5 @@
 /* Utilitários */
 
 @import "./utilidades/componentes.css";
-@import "./utilidades/cores.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/formulario.css";
